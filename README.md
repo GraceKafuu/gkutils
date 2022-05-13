@@ -1,1 +1,3 @@
-# gkutils
+"""
+Grace Kafuu utils
+"""
